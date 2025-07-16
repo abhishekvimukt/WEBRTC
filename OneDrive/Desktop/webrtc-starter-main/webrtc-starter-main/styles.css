@@ -1,0 +1,23 @@
+#videos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+}
+
+.video-player{
+    background-color: black;
+    width: 100%;
+}
+
+#room-id-input {
+    margin-bottom: 10px;
+}
+
+#join-room-button {
+    margin-bottom: 10px;
+}
+
+#messages {
+    text-align: center;
+    margin-top: 10px;
+}
